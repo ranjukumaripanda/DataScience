@@ -5,7 +5,7 @@ Created on Sat Apr 18 20:03:22 2020
 @author: pitambarmishra
 """
 
-#Assign value to a variable
+#Assign value to a variables
 x=12
 print(x)
 
